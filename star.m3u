@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" tvg-chno="1" group-title="Star Playlist", Star Sports 1 HD 
+https://thenayeemparvez.xyz/m5tvz/live.m3u8?id=8063
+#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" tvg-chno="1" group-title="Star Playlist", Star Sports Hindi
+https://thenayeemparvez.xyz/m5tvz/live.m3u8?id=19830
+#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_Sports_1_Tamil_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160049" tvg-chno="1" group-title="Star Playlist", Star Sports Tamil
+https://thenayeemparvez.xyz/m5tvz/live.m3u8?id=19779
+#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtJzSTrGUwYRQS44jNQseJfO9x-YQsGdi-FyYvSscsRUhMLTCrjPS55M&s=10" tvg-chno="1" group-title="Star Playlist", Star Sports 2 HD
+https://thenayeemparvez.xyz/m5tvz/live.m3u8?id=8064
+#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgZJOjMlOWLU9Lm6TGD64HqG8opGW7MB-qlrjoHi_H_3RHlY83rReaSbeP&s=10" tvg-chno="1" group-title="Star Playlist", Star Sports 3
+http://star.thenayeemparvez.xyz/live/00:1A:79:51:48:BB/8136/39098.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" tvg-chno="1" group-title="Star Playlist", Star Sports Select 1 
+http://star.thenayeemparvez.xyz/live/00:1A:79:51:48:BB/9592/299.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" tvg-chno="1" group-title="Star Playlist", Star Sports Select 2 
+http://star.thenayeemparvez.xyz/live/00:1A:79:51:48:BB/9592/300.m3u8
