@@ -1,14 +1,4 @@
-<html>
-	<head>
-		<script>
-			window.location.replace("https://t.me/LiveSportsLinksOfficial");
-		</script>
-	</head>
-</html>
-
-#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" tvg-chno="1" group-title="Nayeem's SonyLIV", Nayeem Parvez
-https://video.twimg.com/amplify_video/1740038056349196288/vid/avc1/1280x720/XjhaIS0g4kej3ZVc.mp4?tag=14
-
+#EXTM3U
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="sony-hd" group-title="Nayeem's SonyLIV",Sony HD (SET HD)
 https://colorsscreen.com/sliv/stream.php?id=sony-hd&e=.m3u8|Referer=https://colorsscreen.com/&key=thenayeemparvez
@@ -30,8 +20,6 @@ https://colorsscreen.com/sliv/stream.php?id=sony-max&e=.m3u8|Referer=https://col
 https://colorsscreen.com/sliv/stream.php?id=sony-wah&e=.m3u8|Referer=https://colorsscreen.com/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="sony-max-2" group-title="Nayeem's SonyLIV",Sony MAX 2
 https://colorsscreen.com/sliv/stream.php?id=sony-max-2&e=.m3u8|Referer=https://colorsscreen.com/&key=thenayeemparvez
-#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" tvg-chno="1" group-title="Nayeem's SonyLIV", Nayeem Parvez
-https://video.twimg.com/amplify_video/1740038056349196288/vid/avc1/1280x720/XjhaIS0g4kej3ZVc.mp4?tag=14
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="sony-pix-hd" group-title="Nayeem's SonyLIV",Sony PIX HD
 https://colorsscreen.com/sliv/stream.php?id=sony-pix-hd&e=.m3u8|Referer=https://colorsscreen.com/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" tvg-chno="sony-bbc-earth-hd" group-title="Nayeem's SonyLIV",Sony BBC Earth HD
@@ -52,7 +40,5 @@ https://colorsscreen.com/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8|Referer=https:
 https://colorsscreen.com/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8|Referer=https://colorsscreen.com/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" tvg-chno="sony-ten-5-hd" group-title="Nayeem's SonyLIV",Sony Sports Ten 5 HD
 https://colorsscreen.com/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8|Referer=https://colorsscreen.com/&key=thenayeemparvez
-#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" tvg-chno="1" group-title="Nayeem's SonyLIV", Nayeem Parvez
-https://video.twimg.com/amplify_video/1740038056349196288/vid/avc1/1280x720/XjhaIS0g4kej3ZVc.mp4?tag=14
 #EXTINF:-1 tvg-id="sony-kal" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="sony-kal" group-title="Nayeem's SonyLIV",Sony KAL
 https://colorsscreen.com/sliv/stream.php?id=sony-kal&e=.m3u8|Referer=https://colorsscreen.com/&key=thenayeemparvez
