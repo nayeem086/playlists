@@ -1,14 +1,4 @@
-<html>
-	<head>
-		<script>
-			window.location.replace("https://t.me/LiveSportsLinksOfficial");
-		</script>
-	</head>
-</html>
-
-#EXTINF:-1 tvg-id="Nayeem-Parvez" tvg-name="Nayeem Parvez" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" group-title="Owner",Nayeem Parvez 
-https://video.twimg.com/amplify_video/1740038056349196288/vid/avc1/1280x720/XjhaIS0g4kej3ZVc.mp4?tag=14
-
+#EXTM3U
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/9x_jalwa.png" group-title="Nayeem's JadooTV", 9x Jalwa
 https://nayeemparvez.tech/cricfy/jadoo.php?id=9x_jalwa
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
@@ -55,8 +45,6 @@ https://nayeemparvez.tech/cricfy/jadoo.php?id=duronto_tv
 https://nayeemparvez.tech/cricfy/jadoo.php?id=ekattor_tv
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="Nayeem's JadooTV", Ekushey TV
 https://nayeemparvez.tech/cricfy/jadoo.php?id=ekushey_tv
-#EXTINF:-1 tvg-id="Nayeem-Parvez" tvg-name="Nayeem Parvez" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" group-title="Owner",Nayeem Parvez 
-https://video.twimg.com/amplify_video/1740038056349196288/vid/avc1/1280x720/XjhaIS0g4kej3ZVc.mp4?tag=14
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" group-title="Nayeem's JadooTV", Gaan Bangla 
 https://nayeemparvez.tech/cricfy/jadoo.php?id=gaan_bangla
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="Nayeem's JadooTV", Gazi TV 
@@ -89,7 +77,5 @@ https://nayeemparvez.tech/cricfy/jadoo.php?id=t_sports
 https://nayeemparvez.tech/cricfy/jadoo.php?id=zee_bangla
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="Nayeem's JadooTV", Zee Cinema 
 https://nayeemparvez.tech/cricfy/jadoo.php?id=zee_cinema_hd
-#EXTINF:-1 tvg-id="Nayeem-Parvez" tvg-name="Nayeem Parvez" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" group-title="Owner",Nayeem Parvez 
-https://video.twimg.com/amplify_video/1740038056349196288/vid/avc1/1280x720/XjhaIS0g4kej3ZVc.mp4?tag=14
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="Nayeem's JadooTV", Zee TV
 https://nayeemparvez.tech/cricfy/jadoo.php?id=zee_tv
