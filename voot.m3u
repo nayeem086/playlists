@@ -1,11 +1,4 @@
-<html>
-	<head>
-		<script>
-			window.location.replace("https://t.me/LiveSportsLinksOfficial");
-		</script>
-	</head>
-</html>
-
+#EXTM3U
 #EXTINF:-1 tvg-id="c19216f18ccd88d4a03fe104db65e020" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="c19216f18ccd88d4a03fe104db65e020" group-title="JioCinema",Colors HD
 https://adda.aneplaymax.online/wp-cookie/stream.m3u8?id=144
 #EXTINF:-1 tvg-id="f18ade889a795735e49f51a96108e878" tvg-name="Colors Cineplex HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGVhcyZK/Colors-Cineplex-HD.png" tvg-chno="f18ade889a795735e49f51a96108e878" group-title="JioCinema",Colors Cineplex HD
