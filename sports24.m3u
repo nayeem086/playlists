@@ -65,16 +65,17 @@ https://its-nayeemparvez.xyz/sports24/live.m3u8?id=fox-news-channel-89&e=.m3u8|U
 https://its-nayeemparvez.xyz/sports24/live.m3u8?id=nfl-network-91&e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="cbs-sports-network-70" tvg-name="CBS Sports Network" tvg-logo="https://imagecdnkayatech.nediri2493.workers.dev/s24/tvs/70.png" tvg-chno="cbs-sports-network-70" group-title="Sports24",CBS Sports Network
 https://its-nayeemparvez.xyz/sports24/live.m3u8?id=cbs-sports-network-70&e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="nba-tv-43" tvg-name="NBA TV" tvg-logo="
+#EXTINF:-1 tvg-id="nba-tv-43" tvg-name="NBA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5PIb1N9stMKmfHGBrGRov15QlVPCpk_pbtA&s" tvg-chno="nba-tv-43" group-title="Sports24",NBA TV
+https://its-nayeemparvez.xyz/sports24/live.m3u8?id=nba-tv-43&e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="willow-cricket-116" tvg-name="Willow Cricket" tvg-logo="https://imagecdnkayatech.nediri2493.workers.dev/s24/uswillow.png" tvg-chno="willow-cricket-116" group-title="Sports24",Willow Cricket
 https://its-nayeemparvez.xyz/sports24/live.m3u8?id=willow-cricket-116&e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="wwe-network-117" tvg-name="WWE Network" tvg-logo="https://imagecdnkayatech.nediri2493.workers.dev/s24/tvs/117.png" tvg-chno="wwe-network-117" group-title="Sports24",WWE Network
 https://its-nayeemparvez.xyz/sports24/live.m3u8?id=wwe-network-117&e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="bein-sports-1-40" tvg-name="BEIN SPORTS 1" tvg-logo="https://imagecdnkayatech.nediri2493.workers.dev/s24/upload/tvs/40.png" tvg-chno="bein-sports-1-40" group-title="Sports24",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="bein-sports-1-40" tvg-name="BEIN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA0a3zbOAd_XRJ0oBnTHaSkLe6jz5DwCXHwQ&s" tvg-chno="bein-sports-1-40" group-title="Sports24",BEIN SPORTS 1
 https://its-nayeemparvez.xyz/sports24/live.m3u8?id=bein-sports-1-40&e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="bein-sports-2-41" tvg-name="BEIN SPORTS 2" tvg-logo="https://imagecdnkayatech.nediri2493.workers.dev/s24/tvs/41.png" tvg-chno="bein-sports-2-41" group-title="Sports24",BEIN SPORTS 2
 https://its-nayeemparvez.xyz/sports24/live.m3u8?id=bein-sports-2-41&e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="rmc-sport-1-13" tvg-name="RMC SPORT 1" tvg-logo="https://imagecdnkayatech.nediri2493.workers.dev/s24/upload/tvs/13.png" tvg-chno="rmc-sport-1-13" group-title="Sports24",RMC SPORT 1
+#EXTINF:-1 tvg-id="rmc-sport-1-13" tvg-name="RMC SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhaPL5lwNjGfSxRgJILKmVDauG-YyDzTHkg&s" tvg-chno="rmc-sport-1-13" group-title="Sports24",RMC SPORT 1
 https://its-nayeemparvez.xyz/sports24/live.m3u8?id=rmc-sport-1-13&e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="rmc-sport-2-14" tvg-name="RMC SPORT 2" tvg-logo="https://imagecdnkayatech.nediri2493.workers.dev/s24/RMC_SPORT_2.png" tvg-chno="rmc-sport-2-14" group-title="Sports24",RMC SPORT 2
 https://its-nayeemparvez.xyz/sports24/live.m3u8?id=rmc-sport-2-14&e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
