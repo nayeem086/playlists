@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" tvg-chno="1" group-title="Nayeem's Zeppy TV", Nayeem Parvez
-https://video.twimg.com/amplify_video/1740038056349196288/vid/avc1/1280x720/XjhaIS0g4kej3ZVc.mp4?tag=14
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-logo="https://i.ibb.co/1rJPzKG/Zing.png" group-title="Music",Zing (Zee)
 https://neestreamtv.com/z5/stream.php?id=0-9-zing&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-logo="https://i.ibb.co/6XJSZwc/Big-Magic.png" group-title="Entertainment",Big Magic (Zee)
@@ -53,8 +51,6 @@ https://neestreamtv.com/z5/stream.php?id=0-9-pictures&e=.m3u8|Referer=https://ne
 https://neestreamtv.com/z5/stream.php?id=0-9-zeeaction&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="0-9-privÃ©hd" tvg-name="& Prive HD (And Prive HD)" tvg-logo="https://i.ibb.co/tz5wbMF/Prive-HD.png" group-title="Movies",& Prive HD (And Prive HD) (Zee)
 https://neestreamtv.com/z5/stream.php?id=0-9-privÃ©hd&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
-#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" tvg-chno="1" group-title="Nayeem's Zeppy TV", Nayeem Parvez
-https://video.twimg.com/amplify_video/1740038056349196288/vid/avc1/1280x720/XjhaIS0g4kej3ZVc.mp4?tag=14
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="& Flix HD (And Flix HD)" tvg-logo="https://imagizer.imageshack.com/img923/1228/kA18js.png" group-title="Movies",& Flix HD (And Flix HD) (Zee)
 https://neestreamtv.com/z5/stream.php?id=0-9-channel_2105335046&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-name="Sanskar TV" tvg-logo="https://imagizer.imageshack.com/img924/8753/YK7Yia.png" group-title="Spiritual",Sanskar TV (Zee)
@@ -117,7 +113,5 @@ https://neestreamtv.com/z5/stream.php?id=zee_bihar&e=.m3u8|Referer=https://neest
 https://neestreamtv.com/z5/stream.php?id=zee_rajasthan&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="zee_delhi" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://imagizer.imageshack.com/img922/2188/dG0Qr2.png" group-title="News",Zee Delhi NCR Haryana (Zee)
 https://neestreamtv.com/z5/stream.php?id=zee_delhi&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
-#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" tvg-chno="1" group-title="Nayeem's Zeppy TV", Nayeem Parvez
-https://video.twimg.com/amplify_video/1740038056349196288/vid/avc1/1280x720/XjhaIS0g4kej3ZVc.mp4?tag=14
 #EXTINF:-1 tvg-id="zee_business_english" tvg-name="Zee Business" tvg-logo="https://imagizer.imageshack.com/img924/4480/lCxGFS.png" group-title="News",Zee Business (Zee)
 https://neestreamtv.com/z5/stream.php?id=zee_business_english&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
