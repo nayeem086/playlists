@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/QM22x0Qj/Star-Sports-1-HD.png" tvg-chno="1" group-title="Nayeem's CricHD",Star Sports 1 HD
+https://247stream.one/live.php/star1in.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Star Sports 1 Hindi HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/MZbCq0v8/Star-Sports-1-HD-Hindi.png" tvg-chno="2" group-title="Nayeem's CricHD",Star Sports 1 Hindi HD
+https://247stream.one/live.php/starhindi.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Sky Sports Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/13TTJJYD/Sky-Sports-Cricket.png" tvg-chno="3" group-title="Nayeem's CricHD",Sky Sports Cricket
+https://247stream.one/live.php/skyscric.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="A Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/4dR0TnGd/A-Sports-HD.png" tvg-chno="4" group-title="Nayeem's CricHD",A Sports HD
+https://247stream.one/live.php/asportshd.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Sky Sport 3 NewZealand" tvg-country="IN" tvg-logo="https://i.postimg.cc/8Pz0Gq2h/Sky-Sports-New-Zealand.png" tvg-chno="5" group-title="Nayeem's CricHD",Sky Sport 3 NewZealand
+https://247stream.one/live.php/sky3nz.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="PTV Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/cLV9Q6rm/PTV-Sports.png" tvg-chno="6" group-title="Nayeem's CricHD",PTV Sports HD
+https://247stream.one/live.php/ptvpk.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Ten Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/mDVy6r2K/Ten-Sports-HD.png" tvg-chno="7" group-title="Nayeem's CricHD",Ten Sports HD
+https://247stream.one/live.php/tenspk.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="TNT Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRLxZxGk/TNT-Sports-1.png" tvg-chno="8" group-title="Nayeem's CricHD",TNT Sports 1
+https://247stream.one/live.php/bbtsp1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Willow by Cricbuzz" tvg-country="IN" tvg-logo="https://i.postimg.cc/1tJDK59X/Willow-by-Cricbuzz.png" tvg-chno="9" group-title="Nayeem's CricHD",Willow by Cricbuzz
+https://247stream.one/live.php/willowusa.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Sky Sports Mix" tvg-country="IN" tvg-logo="https://i.postimg.cc/kXkKsHdQ/Sky-Sports-Mix.png" tvg-chno="10" group-title="Nayeem's CricHD",Sky Sports Mix
+https://247stream.one/live.php/skysmixx.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="ESPN" tvg-country="IN" tvg-logo="https://i.postimg.cc/cHbrHKxR/ESPN.png" tvg-chno="11" group-title="Nayeem's CricHD",ESPN
+https://247stream.one/live.php/espnusa.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="Super Sport Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/YCMDkDHs/Super-Cricket.png" tvg-chno="12" group-title="Nayeem's CricHD",Super Sport Cricket
+https://247stream.one/live.php/supercricket.m3u8
