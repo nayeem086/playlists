@@ -78,7 +78,7 @@ https://vipgoodlive-tvs.starcdn.live/SuperSport_Cricket_Live_TV/tracks-v1a1/inde
 #EXTINF:-1 tvg-id="39" tvg-name="SuperSport Football" tvg-logo="https://beesport.tv/storage/images/tv-channels/7lxofw1656964140.png" tvg-chno="39" group-title="Nayeem's BeeSports",SuperSport Football
 https://vipgoodlive-tvs.starcdn.live/SuperSport_Football_Live_TV/tracks-v1a1/index.m3u8?|User-agent=android&referer=https://vipgoodlive-tvs.starcdn.live/
 #EXTINF:-1 tvg-id="40" tvg-name="SuperSport Golf" tvg-logo="https://beesport.tv/storage/images/tv-channels/super-sport-golf-logo.png" tvg-chno="40" group-title="Nayeem's BeeSports",SuperSport Golf
-https://vipgoodlive-tvs.starcdn.live/SuperSport_Golf_Live_TV/tracks-v1a1/index.m3u8?|User-agent=android&referer=https://vipgoodlive-tvs.starcdn.live/
+https://vipgoodlive-tvs.starcdn.live/SuperSport_Golf_Live_TV/index.m3u8?|User-agent=android&referer=https://vipgoodlive-tvs.starcdn.live/
 #EXTINF:-1 tvg-id="41" tvg-name="SuperSport Rugby" tvg-logo="https://beesport.tv/storage/images/tv-channels/scvqpc1642604954.png" tvg-chno="41" group-title="Nayeem's BeeSports",SuperSport Rugby
 https://vipgoodlive-tvs.starcdn.live/SuperSport_Rugby_Live_TV/tracks-v1a1/index.m3u8?|User-agent=android&referer=https://vipgoodlive-tvs.starcdn.live/
 #EXTINF:-1 tvg-id="42" tvg-name="SuperSport Tennis" tvg-logo="https://beesport.tv/storage/images/tv-channels/supersport-tennis.png" tvg-chno="42" group-title="Nayeem's BeeSports",SuperSport Tennis
@@ -144,7 +144,7 @@ https://vipgoodlive-tvs.starcdn.live/FOX_NEWS_Live_TV/tracks-v1a1/index.m3u8?|Us
 #EXTINF:-1 tvg-id="72" tvg-name="ACC Network" tvg-logo="https://beesport.tv/storage/images/tv-channels/a-c-c_-network_-raycom_-logo.png" tvg-chno="72" group-title="Nayeem's BeeSports",ACC Network
 https://vipgoodlive-tvs.starcdn.live/ACC_Network_Live_TV/tracks-v1a1/index.m3u8?|User-agent=android&referer=https://vipgoodlive-tvs.starcdn.live/
 #EXTINF:-1 tvg-id="73" tvg-name="Fight Network" tvg-logo="https://beesport.tv/storage/images/tv-channels/x-c1-yl3tu1-ga-wl-e-o3b-w-aiye3e127-l5yarb-ot2-ezxe.png" tvg-chno="73" group-title="Nayeem's BeeSports",Fight Network
-https://vipgoodlive-tvs.starcdn.live/Fight_Network_Live_TV/tracks-v1a1/index.m3u8?|User-agent=android&referer=https://vipgoodlive-tvs.starcdn.live/
+https://vipgoodlive-tvs.starcdn.live/Fight_Network_Live_TV/index.m3u8?|User-agent=android&referer=https://vipgoodlive-tvs.starcdn.live/
 #EXTINF:-1 tvg-id="74" tvg-name="CBS Sports Network" tvg-logo="https://beesport.tv/storage/images/tv-channels/a4df4ef049b119253c9833bea8ed6515.jpg" tvg-chno="74" group-title="Nayeem's BeeSports",CBS Sports Network
 https://vipgoodlive-tvs.starcdn.live/CBS_Sports_Network_Live_TV/tracks-v1a1/index.m3u8?|User-agent=android&referer=https://vipgoodlive-tvs.starcdn.live/
 #EXTINF:-1 tvg-id="75" tvg-name="CNBC" tvg-logo="https://beesport.tv/storage/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png" tvg-chno="75" group-title="Nayeem's BeeSports",CNBC
