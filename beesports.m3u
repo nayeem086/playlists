@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="TNT SPORTS 1" tvg-logo="https://beesport.tv/storage/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png" tvg-chno="1" group-title="BeeSports",TNT SPORTS 1
-https://vipgoodlive-tvs.starcdn.live/TNT_Sports_1/tracks-v1a1/index.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36&Referer=https://vipgoodlive-tvs.starcdn.live/
+https://vipgoodlive-tvs.starcdn.live/TNT_Sports_1/tracks-v1a1/index.m3u8?|User-agent=android&referer=https://vipgoodlive-tvs.starcdn.live/
 #EXTINF:-1 tvg-id="2" tvg-name="TNT SPORTS 2" tvg-logo="https://beesport.tv/storage/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png" tvg-chno="2" group-title="BeeSports",TNT SPORTS 2
 https://vipgoodlive-tvs.starcdn.live/TNT_Sports_2/tracks-v1a1/index.m3u8|User-agent=Mozilla/5.0 (Linux; Android 14; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36&Referer=https://vipgoodlive-tvs.starcdn.live/
 #EXTINF:-1 tvg-id="3" tvg-name="TNT SPORTS 3" tvg-logo="https://beesport.tv/storage/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png" tvg-chno="3" group-title="BeeSports",TNT SPORTS 3
