@@ -10,9 +10,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/thenayeemparvez.m3
 #EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-logo="https://i.ibb.co/CHR76kT/Zee-Marathi-HD.png" group-title="Entertainment",Zee Marathi HD (Zee)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/thenayeemparvez.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-name="Zee Yuva" tvg-logo="https://i.ibb.co/vL09gBt/Zee-Yuva.png" group-title="Entertainment",Zee Yuva (Zee)
-https://jio.tamilbulbtv.live/stream.m3u8?id=414|Referer=https://jio.tamilbulbtv.live/
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Yuva_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Zee Cafe HD" tvg-logo="https://i.ibb.co/X88M1j0/Zee-Cafe-HD.png" group-title="Entertainment",Zee Cafe HD (Zee)
-https://jio.tamilbulbtv.live/stream.m3u8?id=1319|Referer=https://jio.tamilbulbtv.live/
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Cafe_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-bigganga" tvg-name="Zee Ganga" tvg-logo="https://i.ibb.co/6wVRvV0/Zee-Ganga.png" group-title="Entertainment",Zee Ganga (Zee)
 https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Ganga_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" tvg-logo="https://i.ibb.co/txTr4CS/Zee-Tamil-HD.png" group-title="Entertainment",Zee Tamil HD (Zee)
@@ -50,21 +50,21 @@ https://jcdn.padmaflixtv.workers.dev/bpk-tv/And_Pictures_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-name="Zee Action" tvg-logo="https://i.ibb.co/XCCz20X/Zee-Action.png" group-title="Movies",Zee Action (Zee)
 https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-privÃ©hd" tvg-name="& Prive HD (And Prive HD)" tvg-logo="https://i.ibb.co/tz5wbMF/Prive-HD.png" group-title="Movies",& Prive HD (And Prive HD) (Zee)
-https://neestreamtv.com/z5/stream.php?id=0-9-privÃ©hd&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="& Flix HD (And Flix HD)" tvg-logo="https://imagizer.imageshack.com/img923/1228/kA18js.png" group-title="Movies",& Flix HD (And Flix HD) (Zee)
-https://neestreamtv.com/z5/stream.php?id=0-9-channel_2105335046&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-name="Sanskar TV" tvg-logo="https://imagizer.imageshack.com/img924/8753/YK7Yia.png" group-title="Spiritual",Sanskar TV (Zee)
-https://neestreamtv.com/z5/stream.php?id=0-9-channel_1144658965&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Sanskar_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-logo="https://imagizer.imageshack.com/img923/8206/1fZT9k.png" group-title="Entertainment",Zee TV (Zee)
-https://neestreamtv.com/z5/stream.php?id=0-9-zeetv&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_TV_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-name="Zee Sarthak" tvg-logo="https://imagizer.imageshack.com/img922/4700/tIcqdt.png" group-title="Entertainment",Zee Sarthak (Zee)
-https://neestreamtv.com/z5/stream.php?id=0-9-sarthaktv&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Sarthak_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-183" tvg-name="Hare Krsna Television" tvg-logo="https://imagizer.imageshack.com/img922/3423/2lZ72Z.png" group-title="Spiritual",Hare Krsna Television (Zee)
-https://neestreamtv.com/z5/stream.php?id=0-9-183&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Harekrsna_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Classic" tvg-logo="https://imagizer.imageshack.com/img922/9307/oMitXa.png" group-title="Movies",Zee Classic (Zee)
-https://neestreamtv.com/z5/stream.php?id=0-9-176&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplor HD" tvg-logo="https://imagizer.imageshack.com/img924/4098/8prY1G.png" group-title="Movies",&xplor HD (Zee)
-https://neestreamtv.com/z5/stream.php?id=0-9-209&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
+https://neestreamtv.com/z5/stream.php?id=0-9-209|Referer=https://neestreamtv.com/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="0-9-216" tvg-name="Zee Biskope (Zee Bioscope)" tvg-logo="https://imagizer.imageshack.com/img922/2383/nmy4jF.png" group-title="Movies",Zee Biskope (Zee Bioscope) (Zee)
 https://neestreamtv.com/z5/stream.php?id=0-9-216&e=.m3u8|Referer=https://neestreamtv.com/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="0-9-224" tvg-name="Zee Thirai" tvg-logo="https://imagizer.imageshack.com/img923/6482/LVeVPs.png" group-title="Movies",Zee Thirai (Zee)
