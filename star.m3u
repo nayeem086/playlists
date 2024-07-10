@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" tvg-chno="1" group-title="Star Playlist", Star Sports 1 HD 
-https://fakestream.nl/Sunxt/sbcast.m3u8?id=24|Referer=https://fakestream.nl/
+https://fakestream.nl/Sunxt/sbcast.m3u8?id=78|Referer=https://fakestream.nl/
 
 #EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" tvg-chno="1" group-title="Star Playlist", Star Sports Hindi
 https://str2.thenayeemparvez.xyz/SPO_STARSPORTS1HINDI/index.m3u8
