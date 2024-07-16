@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" tvg-chno="1" group-title="Star Playlist", Star Sports 1 HD 
 https://thenayeemparvez.xyz/thdtv/playlist.m3u8?id=9f21d833c1785d888
 
+#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" tvg-chno="1" group-title="Star Playlist", Star Sports 1 (Backup)
+https://tamilultra.team/master.m3u8?c=STAR_SPORTS_1_HD&server=1|Referer=https://tamilultra.team/?key=thenayeemparvez--
+
 #EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" tvg-chno="1" group-title="Star Playlist", Star Sports Hindi
 https://thenayeemparvez.xyz/cricfy2/play.php?id=21988
 
