@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/9x_jalwa.png" group-title="Nayeem's JadooTV", 9x Jalwa
-https://nayeemparvez.my.id/cricfyop/master.php?id=9x_jalwa
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
 https://nayeemparvez.my.id/cricfyop/master.php?id=atn_bangla
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
@@ -79,3 +77,5 @@ https://nayeemparvez.my.id/cricfyop/master.php?id=zee_bangla
 https://nayeemparvez.my.id/cricfyop/master.php?id=zee_cinema_hd
 #EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="Nayeem's JadooTV", Zee TV
 https://nayeemparvez.my.id/cricfyop/master.php?id=zee_tv
+#EXTINF:-1 tvg-id="Nayeem's JadooTV" tvg-name="Nayeem's JadooTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/9x_jalwa.png" group-title="Nayeem's JadooTV", 9x Jalwa
+https://nayeemparvez.my.id/cricfyop/master.php?id=9x_jalwa
